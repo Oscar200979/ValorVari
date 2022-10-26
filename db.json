@@ -1,7 +1,9 @@
 {
   "posts": [
     {
-        "objValorVari": 
+      "id": 1,
+      "Title": "Valorización",
+      "objValorVari": 
         {
           "extIdTrx": "123",
           "extCodError": "S",
