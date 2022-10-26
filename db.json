@@ -1,121 +1,119 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+        "objValorVari": 
+        {
+          "extIdTrx": "123",
+          "extCodError": "S",
+          "extMensajeError": "",
+          "extPlan": "NBAG31",
+          "extGlosa1": "",
+          "extGlosa2": "",
+          "extGlosa3": "",
+          "extGlosa4": "",
+          "extGlosa5": "",
+          "extListaconvenio": [
+            {
+              "extHomNumeroConvenio": "96986050-3",
+              "extHomLugarConvenio": "2",
+              "extRutConvenio": "0096986050-3",
+              "extRutTratante": "0000000000-0",
+              "extEspecialidad": "0",
+              "extRutSolicitante": "0006922830-5",
+              "extNumPrestaciones": "2",
+              "extInternoIsa": 233378425608,
+              "extListaPrestaciones": [
+                {
+                  "extEvento": 1,
+                  "extMsjEvento": "OK",
+                  "extGrupo": 30,
+                  "extVentaGes": "",
+                  "extDetalleGes": "",
+                  "extPrestacionPrestador": "01-01-016-01",
+                  "extCantidadPrestac": 2,
+                  "extValorPrestacion": 20000,
+                  "extAporteFinanciador": 16000,
+                  "extCopago": 4000,
+                  "extOtraBonificacion": [
+                    {
+                      "extCodigo": "192",
+                      "extNombre": "Metlife",
+                      "extTipoBonif": 1,
+                      "extCopago": 100
+                    },
+                    {
+                      "extCodigo": "192",
+                      "extNombre": "OTra Metlife",
+                      "extTipoBonif": 1,
+                      "extCopago": 500
+                    }
+                  ]
+                },
+                {
+                  "extEvento": 1,
+                  "extMsjEvento": "OK",
+                  "extGrupo": 30,
+                  "extVentaGes": "",
+                  "extDetalleGes": "",
+                  "extPrestacionPrestador": "01-01-016-01",
+                  "extCantidadPrestac": 2,
+                  "extValorPrestacion": 20000,
+                  "extAporteFinanciador": 16000,
+                  "extCopago": 4000,
+                  "extOtraBonificacion": [
+                    {
+                      "extCodigo": "192",
+                      "extNombre": "Metlife",
+                      "extTipoBonif": 1,
+                      "extCopago": 100
+                    },
+                    {
+                      "extCodigo": "192",
+                      "extNombre": "OTra Metlife",
+                      "extTipoBonif": 1,
+                      "extCopago": 500
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "extHomNumeroConvenio": "77986050-3",
+              "extHomLugarConvenio": "2",
+              "extRutConvenio": "0096986050-3",
+              "extRutTratante": "0000000000-0",
+              "extEspecialidad": "0",
+              "extRutSolicitante": "0006922830-5",
+              "extNumPrestaciones": "2",
+              "extInternoIsa": 233378425608,
+              "extListaPrestaciones": [
+                {
+                  "extEvento": 1,
+                  "extMsjEvento": "OK",
+                  "extGrupo": 30,
+                  "extVentaGes": "",
+                  "extDetalleGes": "",
+                  "extPrestacionPrestador": "08-08-016-01",
+                  "extCantidadPrestac": 1,
+                  "extValorPrestacion": 22000,
+                  "extAporteFinanciador": 18000,
+                  "extCopago": 6000,
+                  "extOtraBonificacion": [
+                    {
+                      "extCodigo": "192",
+                      "extNombre": "Metlife",
+                      "extTipoBonif": 1,
+                      "extCopago": 100
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }  
     }
   ],
   "profile": {
     "name": "typicode"
-  },
-  "objValorVari": 
-  {
-    "extIdTrx": "123",
-    "extCodError": "S",
-    "extMensajeError": "",
-    "extPlan": "NBAG31",
-    "extGlosa1": "",
-    "extGlosa2": "",
-    "extGlosa3": "",
-    "extGlosa4": "",
-    "extGlosa5": "",
-    "extListaconvenio": [
-      {
-        "extHomNumeroConvenio": "96986050-3",
-        "extHomLugarConvenio": "2",
-        "extRutConvenio": "0096986050-3",
-        "extRutTratante": "0000000000-0",
-        "extEspecialidad": "0",
-        "extRutSolicitante": "0006922830-5",
-        "extNumPrestaciones": "2",
-        "extInternoIsa": 233378425608,
-        "extListaPrestaciones": [
-          {
-            "extEvento": 1,
-            "extMsjEvento": "OK",
-            "extGrupo": 30,
-            "extVentaGes": "",
-            "extDetalleGes": "",
-            "extPrestacionPrestador": "01-01-016-01",
-            "extCantidadPrestac": 2,
-            "extValorPrestacion": 20000,
-            "extAporteFinanciador": 16000,
-            "extCopago": 4000,
-            "extOtraBonificacion": [
-              {
-                "extCodigo": "192",
-                "extNombre": "Metlife",
-                "extTipoBonif": 1,
-                "extCopago": 100
-              },
-              {
-                "extCodigo": "192",
-                "extNombre": "OTra Metlife",
-                "extTipoBonif": 1,
-                "extCopago": 500
-              }
-            ]
-          },
-          {
-            "extEvento": 1,
-            "extMsjEvento": "OK",
-            "extGrupo": 30,
-            "extVentaGes": "",
-            "extDetalleGes": "",
-            "extPrestacionPrestador": "01-01-016-01",
-            "extCantidadPrestac": 2,
-            "extValorPrestacion": 20000,
-            "extAporteFinanciador": 16000,
-            "extCopago": 4000,
-            "extOtraBonificacion": [
-              {
-                "extCodigo": "192",
-                "extNombre": "Metlife",
-                "extTipoBonif": 1,
-                "extCopago": 100
-              },
-              {
-                "extCodigo": "192",
-                "extNombre": "OTra Metlife",
-                "extTipoBonif": 1,
-                "extCopago": 500
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "extHomNumeroConvenio": "77986050-3",
-        "extHomLugarConvenio": "2",
-        "extRutConvenio": "0096986050-3",
-        "extRutTratante": "0000000000-0",
-        "extEspecialidad": "0",
-        "extRutSolicitante": "0006922830-5",
-        "extNumPrestaciones": "2",
-        "extInternoIsa": 233378425608,
-        "extListaPrestaciones": [
-          {
-            "extEvento": 1,
-            "extMsjEvento": "OK",
-            "extGrupo": 30,
-            "extVentaGes": "",
-            "extDetalleGes": "",
-            "extPrestacionPrestador": "08-08-016-01",
-            "extCantidadPrestac": 1,
-            "extValorPrestacion": 22000,
-            "extAporteFinanciador": 18000,
-            "extCopago": 6000,
-            "extOtraBonificacion": [
-              {
-                "extCodigo": "192",
-                "extNombre": "Metlife",
-                "extTipoBonif": 1,
-                "extCopago": 100
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }  
+  }
 }
