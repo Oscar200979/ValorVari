@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "Title": "Valorización",
+      "title": "Valorización",
       "objValorVari": 
         {
           "extIdTrx": "123",
