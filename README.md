@@ -1,0 +1,2 @@
+# ValorVari
+Retorna la valorizacion
