@@ -1,7 +1,11 @@
 {
-  "extIdTrx": "123",
-  "extCodError": "S",
-  "extMensajeError": "",
-  "extPlan": "NBAG31",
-  "extGlosa1": "HOLA"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
